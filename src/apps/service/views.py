@@ -1,4 +1,4 @@
- # src/apps/core_service/models.py
+ # src/apps/service/models.py
 from django.db import models
 
 class TablaVolumenes(models.Model):
