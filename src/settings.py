@@ -4,3 +4,6 @@ INSTALLED_APPS = [
     'apps.provider',
     'apps.pages',
 ]
+'OPTIONS': {
+    'sslmode': 'require',
+}
