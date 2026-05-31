@@ -1,0 +1,21 @@
+ # Credenciales y variables de entorno ocultas
+.env
+
+# Entorno virtual de Python
+env_vss/
+venv/
+ENV/
+
+# Archivos compilados de Python
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Base de datos local de desarrollo (por si usás una de prueba)
+*.sqlite3
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
